@@ -17,7 +17,6 @@ count = counts = UnitQuantity(
     aliases=['cts', 'counts']
 )
 
-
 lsb = UnitQuantity(
     'least_significant_bit',
     1*dimensionless,
